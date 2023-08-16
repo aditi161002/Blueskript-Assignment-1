@@ -1,0 +1,40 @@
+.overall{
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.input{
+  width: 60%;
+  padding: 12px 20px;
+  margin-top:20px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.add{
+  width: 18%;
+  padding: 12px 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  background-color: rgb(95, 249, 236);
+  border-radius: 10px;
+}
+
+.list{
+  list-style-type: none;
+  width: 75%;
+  padding: 12px 20px;
+  margin-top:5px;
+  border: solid;
+  border-color: black;
+  box-sizing: border-box;
+  border-radius: 10px;
+
+}
+
+.del{
+  margin-left: 680px;
+}
